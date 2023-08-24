@@ -1,0 +1,9 @@
+.principal_container{
+  width: 100%;
+  background-color: #06232d;
+  min-height: calc(100vh - 50px);
+}
+
+.app_container{  
+  padding: 12vh 18vw;
+}

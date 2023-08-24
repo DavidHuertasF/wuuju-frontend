@@ -1,0 +1,10 @@
+.footer_container {
+  width: fit-content;
+  .calculator_img {
+    width: calc(50px + 7vw);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding: 30px;
+  }
+}
